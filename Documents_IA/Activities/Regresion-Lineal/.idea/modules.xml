@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Arbol-de-Decision/.idea/Arbol-de-Decision.iml" filepath="$PROJECT_DIR$/../Arbol-de-Decision/.idea/Arbol-de-Decision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Random-Forest/.idea/Random-Forest.iml" filepath="$PROJECT_DIR$/../Random-Forest/.idea/Random-Forest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Regresion-Lineal.iml" filepath="$PROJECT_DIR$/.idea/Regresion-Lineal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Regresion-Lineal-Multiple/.idea/Regresion-Lineal-Multiple.iml" filepath="$PROJECT_DIR$/../Regresion-Lineal-Multiple/.idea/Regresion-Lineal-Multiple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Regresion-Logistica/.idea/Regresion-Logistica.iml" filepath="$PROJECT_DIR$/../Regresion-Logistica/.idea/Regresion-Logistica.iml" />
+    </modules>
+  </component>
+</project>
